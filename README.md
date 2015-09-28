@@ -1,7 +1,7 @@
 # noVnc Django PoC
 PoC of the Django authentication plugin for Websockify.
 
-Usage:  
+## Usage:  
 
 Open two terminals. In both of them you need to cd into the "authenticated_websocket_django" directory.  
 In one terminal run the webserver: python ./manage.py runserver 8000
